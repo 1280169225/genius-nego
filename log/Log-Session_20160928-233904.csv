@@ -1,0 +1,19 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Pie: a551, ])
+  Turn 2: Party 2       (Accept)
+Found an agreement: Bid[Pie: a551, ]
+Finished negotiation session in 0.007s
+Time (s):		0.006539612
+Rounds:		1
+Agreement?:		Yes
+Discounted?:		No
+2
+Min. utility:		0.44900
+Max. utility:		0.55100
+Distance to pareto:	0.00000
+Distance to Nash:	0.07212
+Social welfare:		1.00000
+Agent utility:		0.55100 (Party 1)
+Agent utility:		0.44900 (Party 2)
+

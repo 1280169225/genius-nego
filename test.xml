@@ -9,16 +9,16 @@
             </deadline>
             <protocolItem hasMediatorProfile="false" hasMediator="false" description="Each agents makes offer, counter-offer, or accepts" classPath="negotiator.protocol.StackedAlternatingOffersProtocol" protocolName="Stacked Alternating Offers Protocol for Multi-Lateral Negotiation (SAOPMN)"/>
             <partyRepItems>
-                <item protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="Deadline-based conceder agent" classPath="negotiator.parties.ConcederNegotiationParty" partyName="Conceder">
+                <item protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="Random party" classPath="negotiator.parties.RandomCounterOfferNegotiationParty" partyName="Random party">
                     <properties/>
                 </item>
             </partyRepItems>
             <partyProfileItems>
-                <item url="file:etc/templates/anac/y2012/RentalHouse/RentalHouse-A-domain_util2.xml"/>
+                <item url="file:etc/templates/anac/y2012/RentalHouse/RentalHouse-A-domain_util1.xml"/>
             </partyProfileItems>
             <numSessions>1</numSessions>
-            <numberOfAgentsPerSession>3</numberOfAgentsPerSession>
-            <repetitionAllowed>true</repetitionAllowed>
+            <numberOfAgentsPerSession>1</numberOfAgentsPerSession>
+            <repetitionAllowed>false</repetitionAllowed>
         </tournament>
     </tournaments>
 </multilateralTournamentsConfiguration>

@@ -1,0 +1,3 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Dist. to Social Welfare;Agent;Utility;Profile
+0.006;2;;180s;Yes;No;1;0.48726;0.48726;0.51274;0.51274;0.48726;[RandomCounterOfferNegotiationParty@2129109183];[0.4872562128184179];[RentalHouse-A-domain_util1.xml]

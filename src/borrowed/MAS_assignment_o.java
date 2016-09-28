@@ -18,12 +18,12 @@ import negotiator.boaframework.SortedOutcomeSpace;
 /**
  * This is your negotiation party.
  */
-public class MAS_assignment extends AbstractNegotiationParty {
+public class MAS_assignment_o extends AbstractNegotiationParty {
 	
 	private SortedOutcomeSpace outcomeSpace;
-	//private static double MINIMUM_BID_UTILITY = 0.0;
+	private static double MINIMUM_BID_UTILITY = 0.0;
 	private int start=1;//stop=-1;
-	private double toBid_difference=0,My_prevbid=1.0,threshold=0.0;
+	private double toBid_difference=0,My_prevbid=1.0,Acceptance_bid=1.0,threshold=0.0;
 	private HashMap<Object,Double> Opponent_bid=new HashMap<Object,Double>();
 	private HashMap<Object,Double> Opponent_difference=new HashMap<Object,Double>();
 	
@@ -33,8 +33,8 @@ public class MAS_assignment extends AbstractNegotiationParty {
 		this.outcomeSpace = new SortedOutcomeSpace(this.utilitySpace);
 		//System.out.println(this.outcomeSpace);
 		//System.out.println("axiak");
-		
-		threshold=utilitySpace.getReservationValueUndiscounted();
+		MINIMUM_BID_UTILITY = utilitySpace.getReservationValueUndiscounted();
+		threshold=MINIMUM_BID_UTILITY;
 	}
 	public Action chooseAction(List<Class<? extends Action>> validActions) {
 		Action action = null;
