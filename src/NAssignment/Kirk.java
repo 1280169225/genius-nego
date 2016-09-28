@@ -56,13 +56,14 @@ public class Kirk extends AbstractNegotiationParty {
 
 		// with 50% chance, counter offer
 		// if we are the first party, also offer.
-		if (!validActions.contains(Accept.class) || Given_util < 0.6 - getTimeLine().getTime()) {
+		if (!validActions.contains(Accept.class) || Given_util < 1 - getTimeLine().getTime()) {
 			Bid nextBid = null;
 			double CurrUtil =0;
-			while(CurrUtil <  0.6 - getTimeLine().getTime()){
-				CurrUtil = Math.random();
+			//while(CurrUtil <  0.8 - getTimeLine().getTime()){
+				CurrUtil = 1 - 2*(Math.random()*getTimeLine().getTime());
+				if(CurrUtil>1)CurrUtil -=1; 
 				nextBid = this.outcomeSpace.getBidNearUtility(CurrUtil).getBid();
-			}
+			//}
 			return new Offer(nextBid);
 		} else {
 			return new Accept();

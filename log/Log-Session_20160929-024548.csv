@@ -1,0 +1,93 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Pie: a720, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Pie: a773, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Pie: a766, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a7, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Pie: a946, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Pie: a752, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a194, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Pie: a988, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Pie: a828, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a160, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Pie: a981, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a7, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Pie: a934, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a54, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Pie: a800, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a188, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Pie: a748, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a240, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Pie: a545, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a443, ])
+Round 13
+  Turn 1: Party 1       (Offer: Bid[Pie: a969, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a19, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Pie: a646, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a342, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Pie: a631, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a357, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[Pie: a681, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a307, ])
+Round 17
+  Turn 1: Party 1       (Offer: Bid[Pie: a714, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a274, ])
+Round 18
+  Turn 1: Party 1       (Offer: Bid[Pie: a700, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a288, ])
+Round 19
+  Turn 1: Party 1       (Offer: Bid[Pie: a713, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a275, ])
+Round 20
+  Turn 1: Party 1       (Offer: Bid[Pie: a819, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a169, ])
+Round 21
+  Turn 1: Party 1       (Offer: Bid[Pie: a915, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a73, ])
+Round 22
+  Turn 1: Party 1       (Offer: Bid[Pie: a600, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a388, ])
+Round 23
+  Turn 1: Party 1       (Offer: Bid[Pie: a831, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a157, ])
+Round 24
+  Turn 1: Party 1       (Offer: Bid[Pie: a709, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a279, ])
+Round 25
+  Turn 1: Party 1       (Offer: Bid[Pie: a525, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a463, ])
+Round 26
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Pie: a463, ]
+Finished negotiation session in 0.124s
+Time (s):		0.123748404
+Rounds:		26
+Agreement?:		Yes
+Discounted?:		No
+2
+Min. utility:		0.46300
+Max. utility:		0.53700
+Distance to pareto:	0.00000
+Distance to Nash:	0.05233
+Social welfare:		1.00000
+Agent utility:		0.46300 (Party 1)
+Agent utility:		0.53700 (Party 2)
+

@@ -1,0 +1,33 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Hired Help, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+Round 6
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Food: Catering, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]
+Finished negotiation session in 0.050s
+Time (s):		0.050158829
+Rounds:		6
+Agreement?:		Yes
+Discounted?:		No
+2
+Min. utility:		0.64485
+Max. utility:		0.70750
+Distance to pareto:	0.17872
+Distance to Nash:	0.29411
+Social welfare:		1.35235
+Agent utility:		0.70750 (Party 1)
+Agent utility:		0.64485 (Party 2)
+

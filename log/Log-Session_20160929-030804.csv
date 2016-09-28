@@ -1,0 +1,671 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 2
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 13
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 17
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 18
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 19
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 20
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 21
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 22
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 23
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 24
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 25
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 26
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 27
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 28
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 29
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 30
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 31
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 32
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 33
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 34
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 35
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 36
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 37
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 38
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 39
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 40
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 41
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 42
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 43
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 44
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 45
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 46
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 47
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 48
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 49
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 50
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 51
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 52
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 53
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 54
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 55
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 56
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 57
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 58
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 59
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 60
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 61
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 62
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 63
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 64
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 65
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 66
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 67
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 68
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 69
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 70
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 71
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 72
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 73
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 74
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 75
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 76
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 77
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 78
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 79
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 80
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 81
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 82
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 83
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 84
+  Turn 1: Party 1       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 85
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 86
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 87
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 88
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 89
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 90
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 91
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 92
+  Turn 1: Party 1       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 93
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 94
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 95
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 96
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 97
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 98
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 99
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 100
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 101
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 102
+  Turn 1: Party 1       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 103
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 104
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 105
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 106
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 107
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 108
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 109
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 110
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 111
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 112
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 113
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 114
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 115
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 116
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 117
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 118
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 119
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 120
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 121
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 122
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 123
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 124
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 125
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 126
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 127
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 128
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 129
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 130
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Equally, ])
+Round 131
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 132
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 133
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 134
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 135
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 136
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 137
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 138
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 139
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 140
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 141
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 142
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Equally, ])
+Round 143
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 144
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 145
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 146
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 147
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 148
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 149
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 150
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 151
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 152
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Equally, ])
+Round 153
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 154
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Hellicopter, Money Split: Equally, ])
+Round 155
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Horse, Money Split: Equally, ])
+Round 156
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+Round 157
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Horse, Money Split: Proportional to Performance, ])
+Round 158
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 159
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Money Grabber, Escape Plan: Car, Money Split: Equally, ])
+Round 160
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 161
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Driver, Escape Plan: Horse, Money Split: Equally, ])
+Round 162
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Car, Money Split: Proportional to Performance, ])
+Round 163
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Offer: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ])
+  Turn 3: Party 3       (Accept)
+Round 164
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Roles: Hostage Taker, Escape Plan: Hellicopter, Money Split: Proportional to Performance, ]
+Finished negotiation session in 1.038s
+Time (s):		1.037739549
+Rounds:		164
+Agreement?:		Yes
+Discounted?:		No
+3
+Min. utility:		0.28590
+Max. utility:		0.98928
+Distance to pareto:	0.00000
+Distance to Nash:	0.89403
+Social welfare:		1.63598
+Agent utility:		0.36081 (Party 1)
+Agent utility:		0.98928 (Party 2)
+Agent utility:		0.28590 (Party 3)
+
