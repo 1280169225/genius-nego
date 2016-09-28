@@ -1,0 +1,668 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 13
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 17
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 18
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 19
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 20
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 21
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 22
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 23
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 24
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 25
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 26
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 27
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 28
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 29
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 30
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 31
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 32
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 33
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 34
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 35
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 36
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 37
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 38
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 39
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 40
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 41
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 42
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 43
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 44
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 45
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 46
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 47
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 48
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 49
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 50
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 51
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 52
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 53
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 54
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 55
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 56
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 57
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 58
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 59
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 60
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 61
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 62
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 63
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 64
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 65
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 66
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 67
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 68
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 69
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 70
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 71
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 72
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 73
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 74
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 75
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 76
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 77
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 78
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 79
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 80
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 81
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 82
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 83
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 84
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 85
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 86
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 87
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 88
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 89
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 90
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 91
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 92
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 93
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 94
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 95
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 96
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 97
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 98
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 99
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 100
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 101
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 102
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 103
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 104
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 105
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 106
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 107
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 108
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 109
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 110
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 111
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 112
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 113
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 114
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 115
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 116
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 117
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 118
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 119
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 120
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 121
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 122
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 123
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 124
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 125
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 126
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 127
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 128
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 129
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 130
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 131
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 132
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 133
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 134
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 135
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 136
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 137
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 138
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 139
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 140
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 141
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 142
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 143
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 144
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 145
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 146
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 147
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 148
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 149
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+Round 150
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 151
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 45000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 152
+  Turn 1: Party 1       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+Round 153
+  Turn 1: Party 1       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 154
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 155
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 156
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Electric, ])
+Round 157
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 158
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 45000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 159
+  Turn 1: Party 1       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToTsrumaiStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 50000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Electric, ])
+Round 160
+  Turn 1: Party 1       (Offer: Bid[price: 40000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 3: Party 3       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 161
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 2: Party 2       (Offer: Bid[price: 50000yen, Style: Western, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+Round 162
+  Turn 1: Party 1       (Offer: Bid[price: 60000yen, Style: Western, AcceptableLocations: NearToGokisoStation, WaterHeaterType: Electric, ])
+  Turn 2: Party 2       (Offer: Bid[price: 55000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+  Turn 3: Party 3       (Offer: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ])
+Round 163
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Accept)
+Found an agreement: Bid[price: 40000yen, Style: Japanese, AcceptableLocations: NearToFukiageStation, WaterHeaterType: Gas, ]
+Finished negotiation session in 0.925s
+Time (s):		0.924945465
+Rounds:		163
+Agreement?:		Yes
+Discounted?:		No
+3
+Min. utility:		0.52045
+Max. utility:		0.83622
+Distance to pareto:	0.38867
+Distance to Nash:	0.48905
+Social welfare:		1.95546
+Agent utility:		0.83622 (Party 1)
+Agent utility:		0.59880 (Party 2)
+Agent utility:		0.52045 (Party 3)
+
