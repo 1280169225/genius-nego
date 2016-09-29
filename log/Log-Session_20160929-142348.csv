@@ -1,0 +1,21 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Study: WB, Faculty: 3ME, Job Prospect: CEO, Housing: Single Room, Partime Job: None, ])
+  Turn 2: Party 2       (Offer: Bid[Study: WB, Faculty: TPM, Job Prospect: CEO, Housing: Cave, Partime Job: Restaurant, ])
+Round 2
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Study: WB, Faculty: TPM, Job Prospect: CEO, Housing: Cave, Partime Job: Restaurant, ]
+Finished negotiation session in 0.007s
+Time (s):		0.007223379
+Rounds:		2
+Agreement?:		Yes
+Discounted?:		No
+2
+Min. utility:		0.92987
+Max. utility:		1.00000
+Distance to pareto:	0.00000
+Distance to Nash:	0.00000
+Social welfare:		1.92987
+Agent utility:		0.92987 (Party 1)
+Agent utility:		1.00000 (Party 2)
+

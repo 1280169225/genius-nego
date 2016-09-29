@@ -32,7 +32,11 @@ public class MAS_assignment extends AbstractNegotiationParty {
 	public void init(AbstractUtilitySpace utilitySpace, Deadline deadlines, TimeLineInfo timeline, long randomSeed, AgentID id)
 	{
 		super.init(utilitySpace, deadlines, timeline, randomSeed, id);
-		this.outcomeSpace = new SortedOutcomeSpace(this.utilitySpace);		
+		this.outcomeSpace = new SortedOutcomeSpace(this.utilitySpace);
+		//utilitySpace.setDiscount(0.2);
+		System.out.print("dfdfdfd :");
+		System.out.println(utilitySpace.getReservationValueUndiscounted());
+		//utilitySpace.setReservationValue(0.5);
 		threshold=utilitySpace.getReservationValueUndiscounted();
 	}
 	public Action chooseAction(List<Class<? extends Action>> validActions) {
@@ -57,8 +61,8 @@ public class MAS_assignment extends AbstractNegotiationParty {
 				Opp_OldBidVal=(double)Opponent_bid.get(sender);
 			if(Opponent_bid.get(sender)!=null &&Opponent_bid.get(sender)!=getUtility(Action.getBidFromAction(action))){
 				Opp_OldBidVal=Opponent_bid.get(sender);
-				System.out.println(Opponent_bid.keySet());
-				System.out.println(Opponent_bid.values());
+				//System.out.println(Opponent_bid.keySet());
+				//System.out.println(Opponent_bid.values());
 				Opponent_bid.put(sender,(double)getUtility(Action.getBidFromAction(action)));
 				double tempdiff=(getUtility(Action.getBidFromAction(action))-Opp_OldBidVal);
 				tempdiff=Math.round(tempdiff*1000000.0)/1000000.0;
@@ -87,17 +91,21 @@ public class MAS_assignment extends AbstractNegotiationParty {
     private Action chooseOffer() 
 	{
 		Bid nextBid=null ;
+		double tdiscount = getTimeLine().getTime(); //)/(getTimeLine().getTotalTime());  
 		try {
 			double utilityGoal;
 			if(start!=-1){
-					utilityGoal =MyOldUtility- TargetBidDiff;
+				System.out.println(tdiscount);
+				utilityGoal =MyOldUtility - (0.5 * tdiscount)+utilitySpace.getReservationValueWithDiscount(getTimeLine());//TargetBidDiff;
 			}
 			else{
 			//	System.out.println(My_currbid+" che");
 					utilityGoal= MyOldUtility;
 			}
-			System.out.println(utilityGoal);
+			//System.out.println(utilityGoal);
 			nextBid = this.outcomeSpace.getBidNearUtility(utilityGoal).getBid();
+			System.out.print("dfdfdfd :");
+			System.out.println(utilitySpace.getReservationValueWithDiscount(getTimeLine()));
 		}
 		catch (Exception e) { 
 			System.out.println("Problem with received bid:"+e.getMessage()+". cancelling bidding"); 

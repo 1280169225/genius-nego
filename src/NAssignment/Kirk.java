@@ -30,6 +30,7 @@ public class Kirk extends AbstractNegotiationParty {
 
 		super.init(utilSpace, dl, tl, randomSeed, agentId);
 		this.outcomeSpace = new SortedOutcomeSpace(this.utilitySpace);
+		utilitySpace.setDiscount(0.99);
 		discountFactor = utilSpace.getDiscountFactor(); // read discount factor
 		System.out.println("Discount Factor is " + discountFactor);
 		reservationValue = utilSpace.getReservationValueUndiscounted(); // read
@@ -60,7 +61,7 @@ public class Kirk extends AbstractNegotiationParty {
 			Bid nextBid = null;
 			double CurrUtil =0;
 			//while(CurrUtil <  0.8 - getTimeLine().getTime()){
-				CurrUtil = 1 - 2*(Math.random()*getTimeLine().getTime());
+				CurrUtil = Math.abs(1 - (Math.random()*getTimeLine().getTime())/2);
 				if(CurrUtil>1)CurrUtil -=1; 
 				nextBid = this.outcomeSpace.getBidNearUtility(CurrUtil).getBid();
 			//}
@@ -86,13 +87,13 @@ public class Kirk extends AbstractNegotiationParty {
 		// Here you hear other parties' messages
 //		System.out.println(getTimeLine().getTime());
 		if(sender!=null && action !=null){
-			Given_util = getUtility(Action.getBidFromAction(action));
+			Given_util =  getUtilityWithDiscount(Action.getBidFromAction(action));
 		}
 	}
 
 	@Override
 	public String getDescription() {
-		return "example party group N";
+		return "MAS-Assignment";
 	}
 
 }
