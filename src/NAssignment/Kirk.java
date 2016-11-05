@@ -1,6 +1,7 @@
 package NAssignment;
 
 import java.util.List;
+import java.util.*;
 
 import negotiator.AgentID;
 import negotiator.Bid;
@@ -24,6 +25,13 @@ public class Kirk extends AbstractNegotiationParty {
 	private double reservationValue = 0; // if you want to keep the reservation
 											// value
 	private double Given_util =0;
+	
+	private HashMap<AgentID, Double>  agentUtils = new HashMap<AgentID, Double>();
+	
+	private double n = 0, rounds = 0;
+	
+	private double prevUtil = 0;
+	
 	@Override
 	public void init(AbstractUtilitySpace utilSpace, Deadline dl,
 			TimeLineInfo tl, long randomSeed, AgentID agentId) {
@@ -57,14 +65,30 @@ public class Kirk extends AbstractNegotiationParty {
 
 		// with 50% chance, counter offer
 		// if we are the first party, also offer.
-		if (!validActions.contains(Accept.class) || Given_util < 1 - getTimeLine().getTime()) {
+		if (!validActions.contains(Accept.class) || (Given_util - 0.1) <= utilitySpace.getReservationValueWithDiscount(getTimeLine().getTime())) {
 			Bid nextBid = null;
-			double CurrUtil =0;
-			//while(CurrUtil <  0.8 - getTimeLine().getTime()){
-				CurrUtil = Math.abs(1 - (Math.random()*getTimeLine().getTime())/2);
-				if(CurrUtil>1)CurrUtil -=1; 
-				nextBid = this.outcomeSpace.getBidNearUtility(CurrUtil).getBid();
-			//}
+			double CurrUtil = 0;
+			
+			if(prevUtil == 0) {
+				CurrUtil = 1;
+			}
+			
+			else {
+				Random r = new Random();
+				int result = r.nextInt(100);
+				
+				if(result < ((n/rounds)*100)) {
+					CurrUtil = prevUtil + getTimeLine().getTime()*0.01;
+				}
+				
+				else {
+					CurrUtil = prevUtil - getTimeLine().getTime()*0.01;
+				}	
+			}
+			
+			nextBid =  this.outcomeSpace.getBidNearUtility(CurrUtil).getBid();
+			prevUtil = CurrUtil;
+			
 			return new Offer(nextBid);
 		} else {
 			return new Accept();
@@ -88,12 +112,25 @@ public class Kirk extends AbstractNegotiationParty {
 //		System.out.println(getTimeLine().getTime());
 		if(sender!=null && action !=null){
 			Given_util =  getUtilityWithDiscount(Action.getBidFromAction(action));
+			
+			if(!agentUtils.containsKey(sender)) {
+				agentUtils.put(sender, Given_util);
+			}
+			
+			else {
+				if((Double)agentUtils.get(sender).doubleValue() > Given_util) {
+					n++;
+				}
+				agentUtils.put(sender, Given_util);
+			}
+			
+			rounds++;
 		}
 	}
 
 	@Override
 	public String getDescription() {
-		return "MAS-Assignment";
+		return "Group8";
 	}
 
 }

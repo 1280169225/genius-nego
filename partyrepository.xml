@@ -90,10 +90,10 @@
             <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="example party group N" classPath="/home/alpha/workspace/genuis-nego/bin/multipartyexample/Groupn.class" partyName="Groupn">
                 <properties/>
             </partyRepItem>
-            <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="example party group N" classPath="/home/alpha/workspace/genuis-nego/bin/NAssignment/Kirk.class" partyName="Kirk">
+            <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="MAS_Assignment" classPath="/home/alpha/workspace/genuis-nego/bin/borrowed/MAS_assignment_o.class" partyName="MAS_assignment_o">
                 <properties/>
             </partyRepItem>
-            <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="MAS_Assignment" classPath="/home/alpha/workspace/genuis-nego/bin/borrowed/MAS_assignment_o.class" partyName="MAS_assignment_o">
+            <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="Group8" classPath="/home/madhuri/madhuri/academics/assignments/sem7/mas/assignment/genius-nego/src/NAssignment/Kirk.class" partyName="Kirk">
                 <properties/>
             </partyRepItem>
         </partyRepItems>
