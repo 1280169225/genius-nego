@@ -1,0 +1,79 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Hired Help, ])
+  Turn 3: Party 3       (Accept)
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Printed, Music: Band, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 13
+  Turn 1: Party 1       (Offer: Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Catering, Location: Ballroom, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])
+  Turn 3: Party 3       (Accept)
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 3: Party 3       (Accept)
+Round 16
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ]
+Finished negotiation session in 0.047s
+Time (s):		0.04699303
+Rounds:		16
+Agreement?:		Yes
+Discounted?:		No
+3
+Min. utility:		0.62489
+Max. utility:		0.86583
+Distance to pareto:	0.00000
+Distance to Nash:	0.24060
+Social welfare:		2.21253
+Agent utility:		0.86583 (Party 1)
+Agent utility:		0.72181 (Party 2)
+Agent utility:		0.62489 (Party 3)
+

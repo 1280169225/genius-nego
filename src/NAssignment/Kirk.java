@@ -62,10 +62,6 @@ public class Kirk extends AbstractNegotiationParty {
 	 */
 	// @Override
 	public Action chooseAction(List<Class<? extends Action>> validActions) {
-
-		// with 50% chance, counter offer
-		// if we are the first party, also offer.
-		if (!validActions.contains(Accept.class) || (Given_util - 0.1) <= utilitySpace.getReservationValueWithDiscount(getTimeLine().getTime())) {
 			Bid nextBid = null;
 			double CurrUtil = 0;
 			
@@ -86,13 +82,15 @@ public class Kirk extends AbstractNegotiationParty {
 				}	
 			}
 			
+			if(Given_util > CurrUtil) {
+				System.out.println("here\n");
+				return new Accept();
+			}
+			
 			nextBid =  this.outcomeSpace.getBidNearUtility(CurrUtil).getBid();
 			prevUtil = CurrUtil;
 			
 			return new Offer(nextBid);
-		} else {
-			return new Accept();
-		}
 	}
 
 	/**
@@ -118,10 +116,17 @@ public class Kirk extends AbstractNegotiationParty {
 			}
 			
 			else {
-				if((Double)agentUtils.get(sender).doubleValue() > Given_util) {
+				if((Double)agentUtils.get(sender).doubleValue() >= Given_util) {
 					n++;
 				}
 				agentUtils.put(sender, Given_util);
+			}
+			
+			Random r = new Random();
+			int result = r.nextInt(100);
+			
+			if(result < 50) {
+				n++;
 			}
 			
 			rounds++;
